@@ -178,6 +178,10 @@ Visualization best practices
 
 Translating data into business insights
 
+## video Presentation and Code explanation
+
+https://drive.google.com/file/d/1PZnEmUSmzgxHPkZh8Gw8z1LDVxxnjLxQ/view?usp=drive_link
+
 ## Author
 
 Nihaall
